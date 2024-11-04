@@ -1,7 +1,7 @@
 # Algorithms
 
-[x] - Extended Euclidean Algorithm - eea.h
-[x] - Square and Multiply - sam.h
+- [x] Extended Euclidean Algorithm - eea.h
+- [x] Square and Multiply - sam.h
 ## Install
 ```
   git clone https://github.com/ThatBlokeJosh/kbb-algo.git
